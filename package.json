@@ -1,6 +1,6 @@
 {
   "name": "graphql-api-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GraphQL client powered by axios",
   "main": "index.js",
   "private": false,

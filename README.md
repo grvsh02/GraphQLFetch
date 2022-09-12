@@ -3,7 +3,7 @@ A GraphQL fetch library in Javasript
 
 ## Installation
 
-First, run the development server:
+First, install the library:
 
 ```bash
 npm i graphql-api-fetch
